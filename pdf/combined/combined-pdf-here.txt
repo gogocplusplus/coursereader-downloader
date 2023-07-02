@@ -1,0 +1,3 @@
+Before moving separate pdf files to their subdirectory `./coursereader-downloader/pdf/*subdirectory`,
+all pdf files in the `./coursereader-downloader/pdf` directory will create a combined single pdf file in this `./coursereader-downloader/pdf/combined` directory. 
+Also will create a table of contents .txt file listing all the files and the first line which is assumed to be the heading

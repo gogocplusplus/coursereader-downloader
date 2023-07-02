@@ -1,0 +1,1 @@
+Coursereader iframes will be downloaded in .pdf format to this directory before being moved to their created subdirectory
